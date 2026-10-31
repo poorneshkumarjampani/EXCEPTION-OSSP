@@ -1,0 +1,15 @@
+Module Description
+1. Process Management Module
+This module manages the processes involved in the simulation. It allows users to enter process details and helps track the current state of each process.
+2. Resource Allocation Module
+This module manages the resources required by different processes. It keeps track of available resources, allocated resources, and the resources still needed by each process.
+3. Deadlock Detection Module
+This module checks whether a deadlock condition exists in the system. It analyzes the allocation of resources and identifies processes that may be waiting indefinitely.
+4. Deadlock Avoidance Module
+This module checks whether resource allocation can lead to an unsafe state. If the project implements Banker's Algorithm, this module uses it to check whether the system is in a safe state before allowing resource allocation.
+5. Banker's Algorithm Module
+This module calculates the remaining resource requirements and checks for a safe sequence of processes. It helps determine whether the system can complete all processes without entering a deadlock.
+6. Simulation Module
+This module runs the deadlock simulation based on the input provided by the user. It displays process execution, resource allocation, and the final system status.
+7. User Interface Module
+This module provides an interface for users to enter process and resource information and view the simulation results in an understandable format
