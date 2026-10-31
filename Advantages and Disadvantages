@@ -1,0 +1,30 @@
+Advantages
+1. Easy Understanding: Helps students understand deadlock concepts in a simple and practical way.
+
+2. Visual Learning: Makes it easier to understand how processes wait for resources and how deadlocks occur.
+
+3. Saves Time: Automatically analyzes resource allocation instead of solving every problem manually.
+
+4. Better Learning: Helps students understand deadlock prevention, avoidance, and detection concepts.
+
+5. Safe Simulation: Allows users to test different resource allocation situations without affecting a real operating system.
+
+6. Improves Problem-Solving Skills: Helps students understand how to identify unsafe states and possible deadlocks.
+
+7. User-Friendly: Provides a simple interface to enter inputs and view simulation results.
+
+8. Educational Purpose: Useful for Operating Systems laboratory experiments and academic learning.
+2. Disadvantages
+1. Limited Features: The simulator may support only a limited number of deadlock algorithms.
+
+2. Input Dependency: Incorrect input values can produce incorrect or unexpected results.
+
+3. Not a Real Operating System: It only simulates deadlock situations and does not manage actual system resources.
+
+4. Limited Scalability: Handling a very large number of processes and resources may require additional memory and processing time.
+
+5. Algorithm Limitations: The simulator may not cover every real-world deadlock situation.
+
+6. No Real-Time Monitoring: It may not monitor actual processes running in the operating system.
+
+7. Requires Basic Knowledge: Users need some understanding of processes, resources, and operating-system concepts to use it effectively.
